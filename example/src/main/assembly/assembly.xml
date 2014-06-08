@@ -1,0 +1,11 @@
+<component>
+
+    <fileSets>
+        <fileSet>
+            <includes>
+                <include>src/main/java</include>
+            </includes>
+        </fileSet>
+    </fileSets>
+
+</component>
