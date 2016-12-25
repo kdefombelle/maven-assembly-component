@@ -1,4 +1,4 @@
-maven-assembly-example
+maven-assembly-component
 ===================
 
 
