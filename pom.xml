@@ -16,8 +16,9 @@
 
   <modules>
     <module>common-resources</module>
-    <module>core</module>
-    <module>example</module>
+    <module>component</module>
+    <module>assembly1</module>
+    <module>assembly2</module>
   </modules>
 
 </project>

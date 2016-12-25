@@ -1,0 +1,10 @@
+main INFO  assembly.App - Let's print the properties from a file common.properties in the classpath
+main INFO  assembly.App - property1:value1
+main INFO  assembly.App - property2:value2
+main INFO  assembly.App - It is not not what's interesting in this example, it is not this main class
+main INFO  assembly.App - It is the fact the assembly in this project is basd on a common descriptor in assembly-component module
+main INFO  assembly.App - Let's print the properties from a file common.properties in the classpath
+main INFO  assembly.App - property1:value1
+main INFO  assembly.App - property2:value2
+main INFO  assembly.App - It is not this maion class which is interesting in this example
+main INFO  assembly.App - It is the fact the assembly in this project is basd on a common descriptor in assembly-component module

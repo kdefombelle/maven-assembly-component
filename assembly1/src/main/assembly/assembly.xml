@@ -1,0 +1,10 @@
+<component>
+
+	<fileSets>
+		<fileSet>
+			<directory>${project.basedir}/src/main/java</directory>
+			<outputDirectory>.</outputDirectory>
+		</fileSet>
+	</fileSets>
+
+</component>
